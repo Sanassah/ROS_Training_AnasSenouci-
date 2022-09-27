@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/_node.dir/src/printer.cpp.o  -o /home/sanassah/tutorial_space/devel/lib/space_tut/_node 

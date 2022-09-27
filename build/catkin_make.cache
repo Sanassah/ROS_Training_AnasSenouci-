@@ -1,0 +1,2 @@
+space_tut
+-DCATKIN_DEVEL_PREFIX=/home/sanassah/tutorial_space/devel -DCMAKE_INSTALL_PREFIX=/home/sanassah/tutorial_space/install -G Unix Makefiles

@@ -1,0 +1,4 @@
+<launch>
+  <node name="faxer_node" pkg="space_tut" type="faxer.py" output="screen"/>
+  <node name="printer_node" pkg="space_tut" type="printer" output="screen"/>
+</launch>
